@@ -1,19 +1,9 @@
 const fetch = require('isomorphic-unfetch');
 const fs = require('fs');
-
+const transformJson = require('../lib/transformJson');
 const MARTA_URL = 'http://developer.itsmarta.com/BRDRestService/RestBusRealTimeService/GetAllBus';
 
-function transformJson(rawData = []) {
-	return rawData.map((rawRoute) => {
-		const { ROUTE, TIMEPOINT, LATITUDE, LONGITUDE } = rawRoute;
-		return {
-			lat       : LATITUDE,
-			long      : LONGITUDE,
-			route     : ROUTE,
-			timepoint : TIMEPOINT
-		};
-	});
-}
+
 
 function saveToData(busRoutes = []) {
 	try {

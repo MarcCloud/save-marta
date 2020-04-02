@@ -1,6 +1,6 @@
-import * as fetch from 'node-fetch';
+import fetch from 'isomorphic-unfetch';
 import routesData from '../../../data/routes.json';
-interface BusRoutesParams {}
+import {Bus} from '../../../types';
 
 const resolvers = {
 	Query: {
@@ -11,6 +11,24 @@ const resolvers = {
 				name: route.route_long_name,
 				color: route.route_color
 			}));
+		},
+		//@ts-ignore
+		getBuses: (_, { route }: { route: string }) => {
+			return fetch(`http://developer.itsmarta.com/BRDRestService/RestBusRealTimeService/GetBusByRoute/${route}`)
+				.then((res) => res.json())
+				.then((buses) => {
+					//@ts-ignore
+					return buses.map((bus)=>{
+						const { ROUTE, TIMEPOINT, LATITUDE, LONGITUDE, VEHICLE } = bus;
+						return {
+							lat: LATITUDE,
+							long: LONGITUDE,
+							route: ROUTE,
+							timepoint: TIMEPOINT,
+							unit: VEHICLE
+						};
+					})
+				});
 		}
 	}
 };
