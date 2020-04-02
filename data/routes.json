@@ -1,0 +1,1152 @@
+[
+ {
+   "route_id": 7634,
+   "route_short_name": "1",
+   "route_long_name": "Marietta Blvd/Joseph E Lowery Blvd",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7635,
+   "route_short_name": "2",
+   "route_long_name": "Ponce de Leon Avenue / Druid Hills",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7636,
+   "route_short_name": "3",
+   "route_long_name": "Martin Luther King Jr Dr/Auburn Ave",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7637,
+   "route_short_name": "4",
+   "route_long_name": "Moreland Avenue",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7638,
+   "route_short_name": "5",
+   "route_long_name": "Piedmont Road / Sandy Springs",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7639,
+   "route_short_name": "6",
+   "route_long_name": "Clifton Road / Emory",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7640,
+   "route_short_name": "8",
+   "route_long_name": "North Druid Hills Road",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7641,
+   "route_short_name": "9",
+   "route_long_name": "Boulevard / Tilson Road",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7642,
+   "route_short_name": "12",
+   "route_long_name": "Howell Mill Road / Cumberland",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7643,
+   "route_short_name": "14",
+   "route_long_name": "14th Street / Blandtown",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7644,
+   "route_short_name": "15",
+   "route_long_name": "Candler Road",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7646,
+   "route_short_name": "19",
+   "route_long_name": "Clairmont Road",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7647,
+   "route_short_name": "21",
+   "route_long_name": "Memorial Drive",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7648,
+   "route_short_name": "24",
+   "route_long_name": "McAfee / Hosea Williams",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7649,
+   "route_short_name": "25",
+   "route_long_name": "Peachtree Industrial Boulevard",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7650,
+   "route_short_name": "26",
+   "route_long_name": "Marietta Street / Perry Boulevard",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7651,
+   "route_short_name": "27",
+   "route_long_name": "Cheshire Bridge Road",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7652,
+   "route_short_name": "30",
+   "route_long_name": "LaVista Road",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7653,
+   "route_short_name": "32",
+   "route_long_name": "Bouldercrest",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7655,
+   "route_short_name": "34",
+   "route_long_name": "Gresham Road",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7656,
+   "route_short_name": "36",
+   "route_long_name": "N Decatur Road / Virginia Highland",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7657,
+   "route_short_name": "37",
+   "route_long_name": "Defoors Ferry Road",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7658,
+   "route_short_name": "39",
+   "route_long_name": "Buford Highway",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7738,
+   "route_short_name": "40",
+   "route_long_name": "Peachtree Street / Downtown",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7659,
+   "route_short_name": "42",
+   "route_long_name": "Pryor Road",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7660,
+   "route_short_name": "47",
+   "route_long_name": "I-85 Access Road / Briarwood Road",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7661,
+   "route_short_name": "49",
+   "route_long_name": "McDonough Boulevard",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7662,
+   "route_short_name": "50",
+   "route_long_name": "Donald Lee Hollowell Parkway",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7663,
+   "route_short_name": "51",
+   "route_long_name": "Joseph E Boone Boulevard",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7665,
+   "route_short_name": "55",
+   "route_long_name": "Jonesboro Road",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7667,
+   "route_short_name": "58",
+   "route_long_name": "Hollywood Road / Lucile Avenue",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7668,
+   "route_short_name": "60",
+   "route_long_name": "Hightower Road",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7669,
+   "route_short_name": "66",
+   "route_long_name": "Lynhurst Drive / Princeton Lakes",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7671,
+   "route_short_name": "68",
+   "route_long_name": "Benjamin E Mays Drive",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7672,
+   "route_short_name": "71",
+   "route_long_name": "Cascade  Road",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7673,
+   "route_short_name": "73",
+   "route_long_name": "Fulton Industrial",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7674,
+   "route_short_name": "74",
+   "route_long_name": "Flat Shoals Road",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7675,
+   "route_short_name": "75",
+   "route_long_name": "Lawrenceville Highway",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7676,
+   "route_short_name": "78",
+   "route_long_name": "Cleveland Ave",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7677,
+   "route_short_name": "79",
+   "route_long_name": "Sylvan Hills",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7678,
+   "route_short_name": "81",
+   "route_long_name": "Venetian Hills / Delowe Drive",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7679,
+   "route_short_name": "82",
+   "route_long_name": "Camp Creek / South Fulton Parkway",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7680,
+   "route_short_name": "83",
+   "route_long_name": "Campbellton Road",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7681,
+   "route_short_name": "84",
+   "route_long_name": "Washington Rd/Camp Crk Marketplace",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7682,
+   "route_short_name": "85",
+   "route_long_name": "Roswell",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7683,
+   "route_short_name": "86",
+   "route_long_name": "Fairington Road",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7684,
+   "route_short_name": "87",
+   "route_long_name": "Roswell Road / Morgan Falls",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7685,
+   "route_short_name": "89",
+   "route_long_name": "Old National Highway",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7686,
+   "route_short_name": "93",
+   "route_long_name": "Headland Drive / Main Street",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7735,
+   "route_short_name": "94",
+   "route_long_name": "Northside Drive",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7687,
+   "route_short_name": "95",
+   "route_long_name": "Metropolitan Parkway",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7689,
+   "route_short_name": "102",
+   "route_long_name": "North Avenue / Little Five Points",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7690,
+   "route_short_name": "103",
+   "route_long_name": "Peeler Road",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7691,
+   "route_short_name": "104",
+   "route_long_name": "Winters Chapel Road",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7692,
+   "route_short_name": "107",
+   "route_long_name": "Glenwood",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7694,
+   "route_short_name": "110",
+   "route_long_name": "Peachtree Road / Buckhead",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7695,
+   "route_short_name": "111",
+   "route_long_name": "Snapfinger Woods",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7696,
+   "route_short_name": "114",
+   "route_long_name": "Columbia Drive",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7697,
+   "route_short_name": "115",
+   "route_long_name": "Covington Highway",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7698,
+   "route_short_name": "116",
+   "route_long_name": "Redan Road",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7699,
+   "route_short_name": "117",
+   "route_long_name": "Rockbridge Road / Panola Road",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7700,
+   "route_short_name": "119",
+   "route_long_name": "Hairston Road / Stone Mtn Village",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7701,
+   "route_short_name": "120",
+   "route_long_name": "East Ponce De Leon Avenue",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7702,
+   "route_short_name": "121",
+   "route_long_name": "Memorial Drive / N Hairston Road",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7703,
+   "route_short_name": "123",
+   "route_long_name": "Church Street / North DeKalb Mall",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7704,
+   "route_short_name": "124",
+   "route_long_name": "Pleasantdale Road",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7705,
+   "route_short_name": "125",
+   "route_long_name": "Clarkston",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7706,
+   "route_short_name": "126",
+   "route_long_name": "Chamblee-Tucker Road",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7707,
+   "route_short_name": "132",
+   "route_long_name": "Tilly Mill Road",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 11845,
+   "route_short_name": "133",
+   "route_long_name": "Shallowford Road",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7708,
+   "route_short_name": "140",
+   "route_long_name": "North Point Parkway",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7709,
+   "route_short_name": "141",
+   "route_long_name": "Haynes Bridge Road / Milton",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7739,
+   "route_short_name": "142",
+   "route_long_name": "East Holcomb Bridge Road",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7710,
+   "route_short_name": "143",
+   "route_long_name": "Windward Park & Ride",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7711,
+   "route_short_name": "148",
+   "route_long_name": "Mount Vernon Highway",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7712,
+   "route_short_name": "150",
+   "route_long_name": "Dunwoody Village",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7713,
+   "route_short_name": "153",
+   "route_long_name": "James Jackson Parkway",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7714,
+   "route_short_name": "155",
+   "route_long_name": "Pittsburgh",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7715,
+   "route_short_name": "162",
+   "route_long_name": "Myrtle Drive / Alison Court",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7716,
+   "route_short_name": "165",
+   "route_long_name": "Fairburn Road",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7718,
+   "route_short_name": "172",
+   "route_long_name": "Sylvan Road / Virginia Avenue",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7719,
+   "route_short_name": "178",
+   "route_long_name": "Empire Blvd / Southside Ind Park",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7720,
+   "route_short_name": "180",
+   "route_long_name": "Roosevelt Highway",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7721,
+   "route_short_name": "181",
+   "route_long_name": "Washington Road / Fairburn",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7722,
+   "route_short_name": "183",
+   "route_long_name": "Barge Road P&R / Lakewood",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7723,
+   "route_short_name": "185",
+   "route_long_name": "Alpharetta",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7724,
+   "route_short_name": "186",
+   "route_long_name": "Rainbow Drive / South DeKalb",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7725,
+   "route_short_name": "189",
+   "route_long_name": "Flat Shoals Road / Scofield Road",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7726,
+   "route_short_name": "191",
+   "route_long_name": "Riverdale / ATL Intl Terminal",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7727,
+   "route_short_name": "192",
+   "route_long_name": "Old Dixie / Tara Boulevard",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7728,
+   "route_short_name": "193",
+   "route_long_name": "Morrow / Jonesboro",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7729,
+   "route_short_name": "194",
+   "route_long_name": "Conley Road / Mt Zion",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7730,
+   "route_short_name": "195",
+   "route_long_name": "Forest Parkway",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7731,
+   "route_short_name": "196",
+   "route_long_name": "Upper Riverdale / Southlake",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7732,
+   "route_short_name": "201",
+   "route_long_name": "Six Flags Over Georgia",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7733,
+   "route_short_name": "221",
+   "route_long_name": "Memorial Drive Limited",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7740,
+   "route_short_name": "295",
+   "route_long_name": "Metropolitan Campus Express",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7734,
+   "route_short_name": "800",
+   "route_long_name": "Lovejoy",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7693,
+   "route_short_name": "809",
+   "route_long_name": "Monroe Drive / Boulevard",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 11840,
+   "route_short_name": "813",
+   "route_long_name": "Atlanta University Center",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7688,
+   "route_short_name": "816",
+   "route_long_name": "North Highland Avenue",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7736,
+   "route_short_name": "823",
+   "route_long_name": "Belvedere",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7654,
+   "route_short_name": "825",
+   "route_long_name": "Johnson Ferry Road",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 11844,
+   "route_short_name": "832",
+   "route_long_name": "Grant Park",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 11841,
+   "route_short_name": "850",
+   "route_long_name": "Carroll Heights / Fairburn Heights",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7664,
+   "route_short_name": "853",
+   "route_long_name": "Center Hill",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7666,
+   "route_short_name": "856",
+   "route_long_name": "Baker Hills / Wilson Mill Meadows",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7737,
+   "route_short_name": "865",
+   "route_long_name": "Boulder Park Drive",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 7670,
+   "route_short_name": "867",
+   "route_long_name": "Peyton Forest / Dixie Hills",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 11842,
+   "route_short_name": "899",
+   "route_long_name": "Old Fourth Ward",
+   "route_desc": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": "819FF7",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 8766,
+   "route_short_name": "BLUE",
+   "route_long_name": "BLUE-East/West Line",
+   "route_desc": "",
+   "route_type": 1,
+   "route_url": "",
+   "route_color": "0101DF",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 8746,
+   "route_short_name": "GOLD",
+   "route_long_name": "GOLD-Northeast Doraville Line",
+   "route_desc": "",
+   "route_type": 1,
+   "route_url": "",
+   "route_color": "FFBF00",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 8748,
+   "route_short_name": "GREEN",
+   "route_long_name": "GREEN-Proctor Creek Line",
+   "route_desc": "",
+   "route_type": 1,
+   "route_url": "",
+   "route_color": "04B404",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 8747,
+   "route_short_name": "RED",
+   "route_long_name": "RED-North South North Springs Line",
+   "route_desc": "",
+   "route_type": 1,
+   "route_url": "",
+   "route_color": "FF0000",
+   "route_text_color": ""
+ },
+ {
+   "route_id": 11843,
+   "route_short_name": "ATL SC",
+   "route_long_name": "Atlanta Streetcar",
+   "route_desc": "",
+   "route_type": 1,
+   "route_url": "",
+   "route_color": "FF0000",
+   "route_text_color": ""
+ }
+]
