@@ -6,6 +6,7 @@ export type BusRoute = {
 };
 
 export type Bus = {
+	unit: number;
 	lat: string;
 	long: string;
 	route: string;

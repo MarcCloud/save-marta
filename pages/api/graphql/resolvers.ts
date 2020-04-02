@@ -1,6 +1,6 @@
 import fetch from 'isomorphic-unfetch';
 import routesData from '../../../data/routes.json';
-import {Bus} from '../../../types';
+import { Bus } from '../../../types';
 
 const resolvers = {
 	Query: {
@@ -18,7 +18,7 @@ const resolvers = {
 				.then((res) => res.json())
 				.then((buses) => {
 					//@ts-ignore
-					return buses.map((bus)=>{
+					return buses.map((bus) => {
 						const { ROUTE, TIMEPOINT, LATITUDE, LONGITUDE, VEHICLE } = bus;
 						return {
 							lat: LATITUDE,
@@ -27,7 +27,11 @@ const resolvers = {
 							timepoint: TIMEPOINT,
 							unit: VEHICLE
 						};
-					})
+					});
+				})
+				.catch((e) => {
+					return [];
+					console.warn('Could not load buses', e);
 				});
 		}
 	}
