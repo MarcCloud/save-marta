@@ -1,6 +1,5 @@
-const fetch = require('node-fetch');
+const fetch = require('isomorphic-unfetch');
 const fs = require('fs');
-const path = require('path');
 
 const MARTA_URL = 'http://developer.itsmarta.com/BRDRestService/RestBusRealTimeService/GetAllBus';
 
