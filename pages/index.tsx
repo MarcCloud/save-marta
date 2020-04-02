@@ -14,8 +14,6 @@ import AirportShuttleIcon from '@material-ui/icons/AirportShuttle';
 import {BusRoute, Bus}from '../types';
 import Footer from '../components/Footer';
 
-const mapsApiKey = "AIzaSyCbuuFPjf64OjJPzRiXMmxW-bhY7rZQaWA"
-
 const ALL_ROUTES = gql`
 	query AllBusRoutes {
 		getBusRoutes {
@@ -51,6 +49,7 @@ const BusMarker = (bus:Bus) => {
 const Index: NextPage<{}> = () => {
 	const { data } = useQuery(ALL_ROUTES);
 	const [loadBuses, result] = useLazyQuery(BUSES_BY_ROUTE);
+	const mapsApiKey = process.env.GOOGLE_MAPS_KEY || ''
 
 	const handleRouteSelection = (event: ChangeEvent<{}>, value: BusRoute | null) => {
 		const route = value?.number;

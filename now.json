@@ -1,0 +1,11 @@
+{
+	"build": {
+		"env": {
+			"SECRET": "@my-secret-key",
+			"ANOTHER_SECRET": "@my-other-secret-key"
+		}
+	},
+	"env": {
+		"GOOGLE_MAPS_KEY": "@google-maps-key"
+	}
+}
