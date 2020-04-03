@@ -1,6 +1,5 @@
 import fetch from 'isomorphic-unfetch';
 import routesData from '../../../data/routes.json';
-import { Bus } from '../../../types';
 
 const resolvers = {
 	Query: {
@@ -28,10 +27,6 @@ const resolvers = {
 							unit: VEHICLE
 						};
 					});
-				})
-				.catch((e) => {
-					return [];
-					console.warn('Could not load buses', e);
 				});
 		}
 	}
